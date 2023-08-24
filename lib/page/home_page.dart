@@ -162,7 +162,7 @@ class _HomePageState extends State<HomePage> {
                       fontSize: 17, fontWeight: FontWeight.w600),
                 ),
                 subtitle: Text(
-                  "Gaji Bulanan",
+                  "Gaji Bulan Agustus",
                   style: GoogleFonts.montserrat(
                       fontSize: 16, fontWeight: FontWeight.w400),
                 ),
